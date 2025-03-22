@@ -2,7 +2,7 @@
 
 
 # SUNUMUN SON SAYFASI YÜKLENMEDİĞİ İÇİN BURAYA KOYUYORUM
-4. Teknik Gereksinimler
+# 4. Teknik Gereksinimler
  
 Oyun Motoru: Unity (3D oyun geliştirme)
 Programlama Dili: C#
